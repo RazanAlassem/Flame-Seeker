@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 14e77089e122522458361118b2217808
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 683787020248457089
+    second: UI Flames_0
+  - first:
+      213: 4571625902635204124
+    second: UI Flames_1
+  - first:
+      213: -5806492566359748626
+    second: UI Flames_2
+  - first:
+      213: 2400428798390922221
+    second: UI Flames_3
+  - first:
+      213: 3859930877973939116
+    second: UI Flames_4
+  - first:
+      213: 247589996112632157
+    second: UI Flames_5
+  - first:
+      213: 925962675251700876
+    second: UI Flames_6
+  - first:
+      213: 2186978718234008179
+    second: UI Flames_7
+  - first:
+      213: 8546631483901314561
+    second: UI Flames_8
+  - first:
+      213: -4301506797890431232
+    second: UI Flames_9
+  - first:
+      213: -7397989869567443062
+    second: UI Flames_10
+  - first:
+      213: 3961159084774153832
+    second: UI Flames_11
+  - first:
+      213: -5539055753369843001
+    second: UI Flames_12
+  - first:
+      213: -5910972228788596711
+    second: UI Flames_13
+  - first:
+      213: 9024200072917895751
+    second: UI Flames_14
+  - first:
+      213: 202786740305238521
+    second: UI Flames_15
+  - first:
+      213: -900257256628027724
+    second: UI Flames_16
+  - first:
+      213: 7373975723252874034
+    second: UI Flames_17
+  - first:
+      213: 1791684373518621473
+    second: UI Flames_18
+  - first:
+      213: -7772997394565626778
+    second: UI Flames_19
+  - first:
+      213: 1611366708311605650
+    second: UI Flames_20
+  - first:
+      213: 9103827229197766779
+    second: UI Flames_21
+  - first:
+      213: 625906246668404115
+    second: UI Flames_22
+  - first:
+      213: -729997730261058329
+    second: UI Flames_23
+  - first:
+      213: -7941735884069598399
+    second: UI Flames_24
+  - first:
+      213: -6717534391525547611
+    second: UI Flames_25
+  - first:
+      213: 401137999669876977
+    second: UI Flames_26
+  - first:
+      213: -3497757601990548813
+    second: UI Flames_27
+  - first:
+      213: 3135979283223136759
+    second: UI Flames_28
+  - first:
+      213: 922759122449943789
+    second: UI Flames_29
+  - first:
+      213: 2866678984457174813
+    second: UI Flames_30
+  - first:
+      213: 165391609101148696
+    second: UI Flames_31
+  - first:
+      213: -5313246031402968303
+    second: UI Flames_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI Flames_8
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 3
+        width: 125
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9eeb0cac4d7900800000000000000
+      internalID: 683787020248457089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_9
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3
+        width: 119
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ebb84798da17f30800000000000000
+      internalID: 4571625902635204124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_5
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 0
+        width: 101
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f7e7ce86f055990800000000000000
+      internalID: -7397989869567443062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_6
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3
+        width: 103
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e56c2533dd8f630800000000000000
+      internalID: 3961159084774153832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_7
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 3
+        width: 107
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9105bd9531208fda0800000000000000
+      internalID: -5910972228788596711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_11
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 4
+        width: 104
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a435077266c3d70800000000000000
+      internalID: 9024200072917895751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_12
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 4
+        width: 120
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f99d05477170d200800000000000000
+      internalID: 202786740305238521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_13
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 4
+        width: 117
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b77dee9df955660800000000000000
+      internalID: 7373975723252874034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_14
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 4
+        width: 122
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b1239e1775dd810800000000000000
+      internalID: 1791684373518621473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_15
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 3
+        width: 113
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66401e08d04c02490800000000000000
+      internalID: -7772997394565626778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2
+        width: 116
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291cdcbdb79bc5610800000000000000
+      internalID: 1611366708311605650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 83
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709cdc71aa475e70800000000000000
+      internalID: 9103827229197766779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 93
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3954e574a6aafa800800000000000000
+      internalID: 625906246668404115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_10
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 5
+        width: 107
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b26eee2ef7757fc0800000000000000
+      internalID: -3497757601990548813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9cf7ffa8c358b20800000000000000
+      internalID: 3135979283223136759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI Flames_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812ed4dcac69b4200800000000000000
+      internalID: 165391609101148696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI Flames_1: 165391609101148696
+      UI Flames_10: -3497757601990548813
+      UI Flames_11: 9024200072917895751
+      UI Flames_12: 202786740305238521
+      UI Flames_13: 7373975723252874034
+      UI Flames_14: 1791684373518621473
+      UI Flames_15: -7772997394565626778
+      UI Flames_16: 1611366708311605650
+      UI Flames_2: 3135979283223136759
+      UI Flames_23: -729997730261058329
+      UI Flames_24: -7941735884069598399
+      UI Flames_25: -6717534391525547611
+      UI Flames_26: 401137999669876977
+      UI Flames_29: 922759122449943789
+      UI Flames_3: 9103827229197766779
+      UI Flames_30: 2866678984457174813
+      UI Flames_32: -5313246031402968303
+      UI Flames_4: 625906246668404115
+      UI Flames_5: -7397989869567443062
+      UI Flames_6: 3961159084774153832
+      UI Flames_7: -5910972228788596711
+      UI Flames_8: 683787020248457089
+      UI Flames_9: 4571625902635204124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
